@@ -1,1 +1,1 @@
-# cpsc-481-assignment-1
+# Uninformed Search Visualizer
